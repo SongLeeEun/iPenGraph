@@ -1,4 +1,4 @@
-# Contributing to Penrose
+# Contributing to iPenGraph
 
 <!-- toc -->
 
@@ -163,7 +163,7 @@ this file are automatically run in GitHub Actions to produce the SVG files in
 `diagrams/`.
 
 If you create a new diagram in `packages/examples/src/` and you'd like to make
-sure that future changes to Penrose don't inadvertently break your diagram, go
+sure that future changes to iPenGraph don't inadvertently break your diagram, go
 ahead add it to the registry! For instance, let's say you create this directory
 under `packages/examples/src/`:
 
@@ -403,7 +403,7 @@ Check out our list of [good first issues][].
 
 ### Merging new changes from upstream
 
-If you need to merge new changes from upstream (i.e. the original Penrose repo):
+If you need to merge new changes from upstream (i.e. the original iPenGraph repo):
 
 ```sh
 git fetch origin main:main
