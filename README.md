@@ -1,17 +1,17 @@
 # iPenGraph [![Build](https://github.com/penrose/penrose/actions/workflows/build.yml/badge.svg)](https://github.com/penrose/penrose/actions/workflows/build.yml) [![codecov](https://codecov.io/gh/penrose/penrose/branch/main/graph/badge.svg?token=opGTmY4rkK)](https://codecov.io/gh/penrose/penrose) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![license](https://img.shields.io/github/license/penrose/penrose)](LICENSE) [![Twitter: @UsePenrose](https://img.shields.io/twitter/follow/UsePenrose?style=social)](https://twitter.com/UsePenrose)
 
-[Penrose](https://penrose.cs.cmu.edu/) is a platform that enables people to
+[iPenGraph](https://penrose.cs.cmu.edu/) is a platform that enables people to
 **create beautiful diagrams just by typing mathematical notation in plain
 text.** The goal is to make it easy for non-experts to create and explore
 high-quality diagrams and provide deeper insight into challenging technical
 concepts. We aim to democratize the process of creating visual intuition.
 
 Check out our [SIGGRAPH '20 paper](https://penrose.cs.cmu.edu/siggraph20) and
-[video](https://vimeo.com/416822487) on Penrose!
+[video](https://vimeo.com/416822487) on iPenGraph!
 
 ## Usage
 
-You can [try Penrose in your browser](https://penrose.cs.cmu.edu/try/) without
+You can [try iPenGraph in your browser](https://penrose.cs.cmu.edu/try/) without
 any installation. For a more detailed step-by-step introduction, check out our
 [tutorials](https://penrose.cs.cmu.edu/docs/tutorial/welcome). Or, for more
 reference-style information, take a look at our
@@ -19,7 +19,7 @@ reference-style information, take a look at our
 
 ## Example
 
-Here's a simple Penrose visualization in the domain of set theory.
+Here's a simple iPenGraph visualization in the domain of set theory.
 
 <img src="diagrams/tree-venn.svg" width=500>
 
